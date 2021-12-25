@@ -1,0 +1,11 @@
+table.tasks input.status {
+    pointer-events: none;
+}
+
+table.tasks td a:nth-child(2) {
+    color: tomato;
+}
+
+.card.list-summary {
+    max-width: max-content;
+}
